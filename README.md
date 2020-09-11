@@ -11,7 +11,7 @@ These are all the routes available right now:
   - [Betrayed Undyne Ending](https://undertale.fandom.com/wiki/Neutral_Route#Betrayed_Undyne_Ending) ([neutral_betrayed_undyne](https://github.com/yarinvasket/UndertaleSaves/tree/neutral_betrayed_undyne))
   - [Exiled Queen Ending](https://undertale.fandom.com/wiki/Neutral_Route#Exiled_Queen_Ending) ([neutral_exiled_queen](https://github.com/yarinvasket/UndertaleSaves/tree/neutral_exiled_queen))
   - [Undyne Ending](https://undertale.fandom.com/wiki/Neutral_Route#Undyne_Ending) ([neutral_undyne](https://github.com/yarinvasket/UndertaleSaves/tree/neutral_undyne))
-  - [Mettaton Ending](https://undertale.fandom.com/wiki/Neutral_Route#Mettaton_Ending) ([neutral_mettaton])(https://github.com/yarinvasket/UndertaleSaves/tree/neutral_mettaton)
+  - [Mettaton Ending](https://undertale.fandom.com/wiki/Neutral_Route#Mettaton_Ending) ([neutral_mettaton](https://github.com/yarinvasket/UndertaleSaves/tree/neutral_mettaton))
   - [Papyrus Ending](https://undertale.fandom.com/wiki/Neutral_Route#Papyrus_Ending) ([neutral_papyrus](https://github.com/yarinvasket/UndertaleSaves/tree/neutral_papyrus))
   - [Dog Ending](https://undertale.fandom.com/wiki/Neutral_Route#Dog_Ending) ([neutral_dog](https://github.com/yarinvasket/UndertaleSaves/tree/neutral_dog))
   - [Leaderless Ending](https://undertale.fandom.com/wiki/Neutral_Route#Leaderless_Ending) ([neutral_leaderless](https://github.com/yarinvasket/UndertaleSaves/tree/neutral_leaderless))
